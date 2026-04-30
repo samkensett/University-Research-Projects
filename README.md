@@ -1,6 +1,8 @@
 # University-Research-Projects
-These are not officially published papers, only a demonstration of my personal research experience.
+These are not officially published papers, only a demonstration of my academic research experience.
 
-The Psychology Dissertation file is a research paper relating to the theory of planned behaviour and the intention-behaviour gap ine xercise, and how this relates to personality. This research project involved the construction and distribution of a questionnaire using qualtrics, and statistical analysis of the responses using SPSS. The implications and evaluation of the research is discussed in-depth. This project receive First-Class Honours at The University of Sheffield.
+The Psychology Dissertation file is a research paper entitled "Does Personality Moderate the Intention-Behaviour Relationship in Exercise?". The poster summarises the Psychology research project in a more concise and visual way. **This project received First-Class Honours at The University of Sheffield with a grade of 78.**
 
-The poster summarises the Psychology research project in a more consise and visual way.
+The Data Science Dissertation file is a research paper entitled "Exploring the Impact of Data Dashboards on Formula 1 Engagement Intentions as Measured by the Sports Fan Model of Goal-Directed Behaviour". **This project received First-Class Honours at The University of Sheffield with a grade of 82.**
+
+Both research projects involved the construction and distribution of a questionnaire using qualtrics, and detailed statistical analysis of the responses using SPSS for mediation, moderation, ANCOVA and more. The implications and evaluation of the research is discussed in-depth.
